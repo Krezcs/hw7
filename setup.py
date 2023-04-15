@@ -9,11 +9,6 @@ setup(
           'License '   
           'Programming language Python 3.10'
     ],
-    entry_points={
-        "console_scripts": [
-            "clean-folder = clean_folder.clean:main"
-        ]
-    },
     python_requires='>=3.5',
     include_package_data=True
 )
