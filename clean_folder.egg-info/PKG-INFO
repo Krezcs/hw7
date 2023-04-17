@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: clean-folder
+Version: 0.1
+Summary: script cleans folder
+Author: Yaroslav
+Classifier: License Programming language Python 3.10
+Requires-Python: >=3.5
